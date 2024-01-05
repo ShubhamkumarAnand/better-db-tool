@@ -1,7 +1,8 @@
 # kysely-Prisma
 
-Prisma for Schema + Migration
-Kysely for querying the data from the database
+- Prisma for Database Schema + Migration
+- Kysely for querying the data from the database
+- Hono as backend framework
 
 ## Instructions
 
@@ -27,3 +28,5 @@ bun db:migrate init # (Your choice Name)
 ```bash
 bun run build bun start
 ```
+
+Feel Free to Give a ⭐
